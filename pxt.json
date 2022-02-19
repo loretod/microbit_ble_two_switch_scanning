@@ -1,0 +1,25 @@
+{
+    "name": "BLE_Two_Switch_Scanning",
+    "description": "",
+    "dependencies": {
+        "core": "*",
+        "microphone": "*",
+        "microbit-pxt-blehid": "github:bsiever/microbit-pxt-blehid#v0.0.18"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "4.0.17",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "blocksprj"
+}
